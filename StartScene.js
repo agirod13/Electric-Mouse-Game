@@ -18,7 +18,7 @@ class StartScene extends Phaser.Scene {
       fill: '#4D39E0',
       fontSize: '45px'
     });
-    this.add.text(130, 520, ' Start Screen\nClick to start!', {
+    this.add.text(130, 520, ' Start Screen\nClick to Start!', {
       fill: '#4D39E0',
       fontSize: '20px'
     });
